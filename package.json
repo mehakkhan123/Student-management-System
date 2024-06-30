@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "mk-student_management_system",
   "version": "1.0.0",
   "description": "Student Management System with typeScript, Node.js, inquirer and chalk",
   "main": "index.js",
