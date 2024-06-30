@@ -1,6 +1,6 @@
 {
-  "name": "mk-student_management_system",
-  "version": "1.0.0",
+  "name": "mehakkhan-student_management_system",
+  "version": "3.2.2",
   "description": "Student Management System with typeScript, Node.js, inquirer and chalk",
   "main": "index.js",
   "type": "module",
